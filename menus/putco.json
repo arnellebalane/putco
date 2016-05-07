@@ -2,8 +2,8 @@
   "context-menu": {
     "atom-text-editor": [
       {
-        "label": "Toggle putco",
-        "command": "putco:toggle"
+        "label": "Post selected text to putco",
+        "command": "putco:post-selected-text"
       }
     ]
   },
