@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle putco",
+        "command": "putco:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "Putco",
+          "submenu": [
+            {
+              "label": "Post Selected Text",
+              "command": "putco:post-selected-text"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "name": "putco",
+  "main": "./lib/putco",
+  "version": "0.0.0",
+  "description": "Post selected text to putco.de",
+  "keywords": [
+    "putco",
+    "putco.de"
+  ],
+  "activationCommands": {
+    "atom-workspace": "putco:post-selected-text"
+  },
+  "repository": "https://github.com/arnellebalane/putco",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
