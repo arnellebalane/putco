@@ -10,11 +10,21 @@
   "activationCommands": {
     "atom-workspace": "putco:post-selected-text"
   },
-  "repository": "https://github.com/arnellebalane/putco",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arnellebalane/putco.git"
+  },
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {},
+  "bugs": {
+    "url": "https://github.com/arnellebalane/putco/issues"
+  },
+  "homepage": "https://github.com/arnellebalane/putco#readme",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Arnelle Balane <arnellebalane@gmail.com>"
 }
