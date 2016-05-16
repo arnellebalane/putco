@@ -17,7 +17,7 @@ or install it from `Settings > Install` and look for `putco`.
 ## Usage
 
 In the `Command Palette`, search for `Putco: Post Selected Text`, or press
-`Ctrl-Alt-Shift-P`.
+`Alt-Shift-P`.
 
 
 [1]: http://putco.de/

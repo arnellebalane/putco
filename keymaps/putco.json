@@ -1,5 +1,5 @@
 {
   "atom-workspace": {
-    "ctrl-alt-shift-p": "putco:post-selected-text"
+    "alt-shift-p": "putco:post-selected-text"
   }
 }
